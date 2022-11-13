@@ -5,6 +5,8 @@ VisualStudioVersion = 17.1.32407.343
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "scanfTest", "scanfTest\scanfTest.vcxproj", "{4B5A5BDF-E11E-4D13-A656-B9B5E0D54E7A}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AlgorithmTest", "AlgorithmTest\AlgorithmTest.vcxproj", "{25EC5A25-BFCF-43DC-BD69-FF50506013E0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{4B5A5BDF-E11E-4D13-A656-B9B5E0D54E7A}.Release|x64.Build.0 = Release|x64
 		{4B5A5BDF-E11E-4D13-A656-B9B5E0D54E7A}.Release|x86.ActiveCfg = Release|Win32
 		{4B5A5BDF-E11E-4D13-A656-B9B5E0D54E7A}.Release|x86.Build.0 = Release|Win32
+		{25EC5A25-BFCF-43DC-BD69-FF50506013E0}.Debug|x64.ActiveCfg = Debug|x64
+		{25EC5A25-BFCF-43DC-BD69-FF50506013E0}.Debug|x64.Build.0 = Debug|x64
+		{25EC5A25-BFCF-43DC-BD69-FF50506013E0}.Debug|x86.ActiveCfg = Debug|Win32
+		{25EC5A25-BFCF-43DC-BD69-FF50506013E0}.Debug|x86.Build.0 = Debug|Win32
+		{25EC5A25-BFCF-43DC-BD69-FF50506013E0}.Release|x64.ActiveCfg = Release|x64
+		{25EC5A25-BFCF-43DC-BD69-FF50506013E0}.Release|x64.Build.0 = Release|x64
+		{25EC5A25-BFCF-43DC-BD69-FF50506013E0}.Release|x86.ActiveCfg = Release|Win32
+		{25EC5A25-BFCF-43DC-BD69-FF50506013E0}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
